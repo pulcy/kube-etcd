@@ -1,0 +1,4 @@
+{
+	"registry": "pulcy",
+	"image": "kube-etcd"
+}
